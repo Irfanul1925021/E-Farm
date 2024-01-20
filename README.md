@@ -16,3 +16,13 @@ the effectiveness of E Farm's services and identify any potential challenges or 
 improvement in the platform's business model.
 
 Here is the complete software requirements specification report of our proposed project E-Farm.
+Files included :
+
+
+   1. SRS_final_report.pdf
+   2. Project_scenario.pdf
+   3. Questionnaire_Feedback_Report.pdf
+   4. Questionnaire_Farmer.pdf
+   5. Questionnaire_FR_Customer.pdf
+   6. Questionnaire_Project_Requirement.pdf
+   7. Requirement_Elicitation(Interview)
